@@ -1,5 +1,3 @@
-### BobCat DJ
-
-Private DJ software for Windows.
+### BoBC-private DJ
 
 BPM data provided by [GetSongBPM.com](https://getsongbpm.com).
